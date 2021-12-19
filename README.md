@@ -56,10 +56,6 @@ delay(1000); // wait for a second
 
 ## About Me
 Hi everyone! I’m Richin, 3'rd year Electronics and Communication student from Sahrdaya college of engineering and technology,Kodakara.I’m here to get more exposure about the IoT world.And I also interested in Ethical hacking.
-# Experiment 1 - Hello World LED Blinking
-A basic Program similar to printing "Hello World " in any programming language. The Aim is to blink an LED using Arduino Uno Board.
-
-Arduino Uno is an open-source microcontroller board developed by Arduino.cc. It has several advantages over the conventional microcontrollers. It comes with a pre-tested software and hardware libraries and has its own integrated development environment (IDE). Also it is less expensive & beginner friendly.
 
 # Experiment 2 : Traffic Light
 In the previous program, we have done the LED blinking experiment with one LED. Now, it’s time to up the stakes and do a bit more complicated experiment-traffic lights. Actually, these two experiments are similar. While in this traffic lights experiment, we use 3 LEDs with different colors rather than 1 LED.
