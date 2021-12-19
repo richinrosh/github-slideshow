@@ -51,12 +51,6 @@ delay(1000); // wait for a second
 ![KL_IOT_EXP1(1)](https://user-images.githubusercontent.com/57257722/146680046-cfaa3bfb-7ad0-4c77-81f0-4df0e469665b.jpeg)
 
 
-
-
-
-## About Me
-Hi everyone! I’m Richin, 3'rd year Electronics and Communication student from Sahrdaya college of engineering and technology,Kodakara.I’m here to get more exposure about the IoT world.And I also interested in Ethical hacking.
-
 # Experiment 2 : Traffic Light
 In the previous program, we have done the LED blinking experiment with one LED. Now, it’s time to up the stakes and do a bit more complicated experiment-traffic lights. Actually, these two experiments are similar. While in this traffic lights experiment, we use 3 LEDs with different colors rather than 1 LED.
 ## Components Required
